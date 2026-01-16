@@ -1,9 +1,16 @@
 # FileSystemApp
 
-A Java application that simulates a basic file system using tree-based nodes.
+FileSystemApp is a Java program that mimics the behavior of a basic file system using a tree data structure. The application represents folders and files in a hierarchical manner and demonstrates how directory traversal and navigation are handled in operating systems.
 
-# Features
-- Abstract tree node structure
-- File and folder nodes
-- Custom exception handling
-- Basic file system operations
+## Key Concepts
+- Tree-based data structures
+- Parent-child relationships
+- Recursive traversal
+- Exception-safe navigation
+
+## Functionality
+- Represents a root directory containing folders and files
+- Supports moving between directories
+- Performs recursive searches within the file system
+- Displays the complete directory structure
+- Simulates real-world file system behavior
